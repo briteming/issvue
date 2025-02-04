@@ -22,7 +22,7 @@ Just fork it, and everything is set up already.
 
 1. Fork [me](https://github.com/cogons/issvue-to-go).
 
-2. Edit /docs/static/config.json.
+2. Edit docs/static/config.json.
 
 3. Select `use docs folder` for your Github Pages.
 
@@ -40,7 +40,7 @@ Just fork it, and everything is set up already.
 
 `$ cd issvue && npm install`。
 
-4. Edit config under **/static** & **/src/static**.
+4. Edit config under static/ & src/static/
 
 `$ cd static && vi config.json`
 
