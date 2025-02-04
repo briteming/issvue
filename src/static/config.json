@@ -1,0 +1,27 @@
+{
+    "blog": {
+        "title": "Issvue",
+        "welcome": "Welcome to issvue",
+        "detail": "This is a client-side github-issue blog generator."
+    },
+    "repo": {
+        "user": "briteming",
+        "repo": "issvue",
+        "read_only_token": "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",
+        "authors": ["cogons"]
+    },
+    "nav": [{
+            "name": "Social",
+            "url": "https://www.zhihu.com/people/mustaxu"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/cogons"
+        },
+        {
+            "name": "Star&Fork",
+            "url": "https://github.com/cogons/issvue"
+        }
+    ],
+    "pin": [4, 5]
+}
